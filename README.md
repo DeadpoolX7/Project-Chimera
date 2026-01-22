@@ -3,9 +3,20 @@
 Built for [Horror-Hacks 2025](https://horror-hacks-2025.devpost.com/). <br/>
 Under "Cursed Code" theme
 
+---
+**🚨UPDATE:** Project Chimera has achieved Honourable mention in Horror Hacks 2025.
+
+---
+
 ## 💀 A Digital Descent into Madness 💀
 
 **Project Chimera - Cursed Code** is an interactive, browser-based horror experience built for **Horror Hacks 2025**. It plunges the user into a retro-futuristic terminal interface, where seemingly innocuous commands slowly unravel a chilling narrative of a system compromised by something... else. Prepare for a journey where the code itself becomes a source of dread.
+
+---
+
+## 📹 Video
+
+[![Project Chimera](https://img.youtube.com/vi/oFTIIwyBthk/maxresdefault.jpg)](https://youtu.be/oFTIIwyBthk)
 
 ---
 
